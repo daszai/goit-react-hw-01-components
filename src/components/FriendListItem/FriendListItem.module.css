@@ -1,0 +1,22 @@
+.item {
+  width: 150px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.statuson {
+  background-color: red;
+}
+.statusof {
+  background-color: blue;
+}
+
+.status {
+}
+
+.avatar {
+}
+.name {
+  margin-left: 10px;
+}
